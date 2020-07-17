@@ -1,3 +1,2 @@
-![baduker.codes](https://media.giphy.com/media/3o7btXajRmGbt3XDkk/giphy.gif)
-
+![coding like there's no tomorrow](https://mk0analyticsindf35n9.kinstacdn.com/wp-content/uploads/2018/12/programming.gif)
 `$ echo YmFkdWtlckBwcm90b25tYWlsLmNoCgo= | base64 -d` ( ͡° ͜ʖ ͡°)
